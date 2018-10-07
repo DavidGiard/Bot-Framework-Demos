@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDialogDemo", "NewDialogDemo\NewDialogDemo.csproj", "{1C332B88-85E3-47A8-901B-35ECA0C40E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C332B88-85E3-47A8-901B-35ECA0C40E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C332B88-85E3-47A8-901B-35ECA0C40E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C332B88-85E3-47A8-901B-35ECA0C40E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C332B88-85E3-47A8-901B-35ECA0C40E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC83DDB2-7218-46FE-8E36-7435CBBD6A77}
+	EndGlobalSection
+EndGlobal
